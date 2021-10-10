@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="notes">Notes</string>
+    <string name="todo">TODO</string>
+    <string name="dev_akira">Dev Akira</string>
+    <string name="itemtitle">Title</string>
+    <string name="sub_title">Sub Title</string>
+    <string name="priority">Priority</string>
+    <string name="here_notes">Here Notes</string>
+    <string name="title">Title</string>
+    <string name="subtitle">SubTitle</string>
+    <string name="_22_dec_2021">22 dec 2021</string>
+    <string name="do_you_really_want_to_n_delete">Do You really Want to\n delete</string>
+    <string name="delete_note">Delete Note?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="high_to_low">High To Low</string>
+    <string name="no_filter">No Filter</string>
+    <string name="low_to_high">Low To High</string>
+</resources>
