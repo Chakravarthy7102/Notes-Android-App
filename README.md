@@ -6,7 +6,7 @@ A Notes taking application that makes your life easy!
 * Sort notes based on there Priority
 * Search Notes 
 * Create and Update Notes
-# Android Components
+# Android 
 * this app uses MVVM Architecture
 * Live Data
 * ViewModel
